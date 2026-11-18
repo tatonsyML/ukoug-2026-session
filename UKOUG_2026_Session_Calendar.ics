@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UKOUG Session Announcement//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ukoug-discover-2026-configuration-judgement-20261124@ukoug-session
+DTSTAMP:20261118T171200Z
+DTSTART:20261124T130000Z
+DTEND:20261124T134500Z
+SUMMARY:From Configuration to Judgement: Building Oracle HCM Capability 
+ for the AI Age
+LOCATION:Mezzanine - Pouilly\, Novotel London West\, 1 Shortlands\, Hamm
+ ersmith\, London W6 8DR\, United Kingdom
+DESCRIPTION:UKOUG Discover 2026. Speakers: Tamer El-Tonsy (Tatonsy Cons
+ ulting) and Tashfeen Rashid (Ocado Logistics).
+URL:https://tatonsyml.github.io/ukoug-2026-session/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:UKOUG session starts in 15 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR
