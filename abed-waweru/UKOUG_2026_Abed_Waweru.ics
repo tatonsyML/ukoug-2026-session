@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UKOUG Session Announcements//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ukoug-discover-2026-abed-waweru-20261125@tatonsyml.github.io
+DTSTAMP:20261120T094000Z
+DTSTART:20261125T160000Z
+DTEND:20261125T164500Z
+SUMMARY:Trustworthy AI support agents for Oracle integration landsc
+ apes
+LOCATION:Chalon\, Novotel London West\, 1 Shortlands\, Hammersmith\
+ , London W6 8DR\, United Kingdom
+DESCRIPTION:UKOUG Discover 2026. Presenter: Abed Waweru (Ocado Logi
+ stics). Programme: https://sessionize.com/api/v2/tbqv7l55/view/Gri
+ dSmart
+URL:https://tatonsyml.github.io/ukoug-2026-session/abed-waweru/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:UKOUG session starts in 15 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR
